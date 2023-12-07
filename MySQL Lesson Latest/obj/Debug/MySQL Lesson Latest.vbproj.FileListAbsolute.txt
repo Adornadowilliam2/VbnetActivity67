@@ -1,0 +1,26 @@
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\bin\Debug\MySQL Lesson Latest.exe.config
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\bin\Debug\MySQL Lesson Latest.exe
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\bin\Debug\MySQL Lesson Latest.pdb
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\bin\Debug\MySQL Lesson Latest.xml
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.vbproj.AssemblyReference.cache
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL_Lesson_Latest.Form1.resources
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL_Lesson_Latest.Resources.resources
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.vbproj.GenerateResource.cache
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.vbproj.CoreCompileInputs.cache
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.exe
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.xml
+C:\Users\dustin\source\repos\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.pdb
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\bin\Debug\MySQL Lesson Latest.exe.config
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\bin\Debug\MySQL Lesson Latest.exe
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\bin\Debug\MySQL Lesson Latest.pdb
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\bin\Debug\MySQL Lesson Latest.xml
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.vbproj.AssemblyReference.cache
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL_Lesson_Latest.Form1.resources
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL_Lesson_Latest.Resources.resources
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.vbproj.GenerateResource.cache
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.vbproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.exe
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.xml
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL Lesson Latest.pdb
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL_Lesson_Latest.AddForm.resources
+C:\Users\Student\Downloads\MySQL Lesson Latest\MySQL Lesson Latest\obj\Debug\MySQL_Lesson_Latest.EDITForm.resources

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MySQL Lesson Latest
+</name>
+</assembly>
+<members>
+<member name="T:MySQL_Lesson_Latest.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MySQL_Lesson_Latest.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MySQL_Lesson_Latest.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:MySQL_Lesson_Latest.MySQL_Lesson.SampleDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MySQL_Lesson_Latest.MySQL_Lesson.SampleDataSet.usersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySQL_Lesson_Latest.MySQL_Lesson.SampleDataSet.usersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySQL_Lesson_Latest.MySQL_Lesson.SampleDataSet.usersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySQL_Lesson_Latest.SampleDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MySQL_Lesson_Latest.SampleDataSet.usersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySQL_Lesson_Latest.SampleDataSet.usersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySQL_Lesson_Latest.SampleDataSet.usersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>
